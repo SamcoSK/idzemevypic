@@ -1,0 +1,14 @@
+{
+  "pismena": ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","U","V","Z"],
+  "kategorii": [
+    {"id": "mesto", "nazov": "Mesto", "priklad": "Bratislava"},
+    {"id": "stat", "nazov": "Štát", "priklad": "Slovensko"},
+    {"id": "zviera", "nazov": "Zviera", "priklad": "Medveď"},
+    {"id": "meno", "nazov": "Meno", "priklad": "Milan"},
+    {"id": "vec", "nazov": "Vec", "priklad": "Mobil"},
+    {"id": "jedlo", "nazov": "Jedlo/Nápoj", "priklad": "Kofola"},
+    {"id": "znacka", "nazov": "Značka/Firma", "priklad": "Samsung"},
+    {"id": "film", "nazov": "Film/Seriál", "priklad": "Kmotr"}
+  ],
+  "vylucenePismena": ["Ď","Ľ","Ň","Ô","Ť","Ž","Ä","Ó","Q","W","X","Y","Ch"]
+}

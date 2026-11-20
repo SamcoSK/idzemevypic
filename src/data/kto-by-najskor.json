@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "text": "Kto by najskôr zabudol vypnúť sporák a odišiel na dovolenku?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 2,
+    "text": "Kto z vás by zjedol celú pizzu sám bez toho, aby sa niekomu priznal?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 3,
+    "text": "Kto je typ, čo si objedná jedlo cez Wolt, aj keď býva 100 metrov od reštaurácie?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 4,
+    "text": "Kto by najskôr stratil pas na letisku?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 5,
+    "text": "Kto by najskôr zaplatil 50 eur za tričko z Primark, lebo zabudol, že je to Primark?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 6,
+    "text": "Kto je typ, čo pošle e-mail šéfovi a potom si uvedomí, že zabudol prílohu?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 7,
+    "text": "Kto by najskôr spal počas online hodiny a náhodou zapol kameru?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 8,
+    "text": "Kto z vás by kupoval vianočné darčeky 24. decembra?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 9,
+    "text": "Kto je typ, čo sleduje seriál celú noc a ráno klamie, že nič nevidel?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 10,
+    "text": "Kto by najskôr zabudol, že má rande, a prišiel v teplákovej súprave?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 11,
+    "text": "Kto z vás by kupoval Kofolu vo veľkom, len aby ušetril 20 centov na kuse?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 12,
+    "text": "Kto je typ, čo si na MHD sadne na sedadlo so zálohou a potom predstiera, že nič nepočuje?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 13,
+    "text": "Kto by najskôr prezradil prekvapivú párty tým, že omylom zdieľal udalosť na Facebooku?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 14,
+    "text": "Kto z vás by prišiel na beh a po 500 metroch tvrdil, že ho bolí koleno?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 15,
+    "text": "Kto je typ, čo číta menu v reštaurácii 20 minút a potom si dá to isté čo vždy?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 16,
+    "text": "Kto by najskôr zabudol narodeniny najlepšieho kamaráta a gratuloval mu o týždeň neskôr?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 17,
+    "text": "Kto z vás by dal GPS navigácii argumentovať s každým rohom v Bratislave?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 18,
+    "text": "Kto je typ, čo si na vlakovej záchodovej kabíne píše odpovede na pracovné e-maily?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 19,
+    "text": "Kto by najskôr na pracovnom pohovore povedal, že jeho slabou stránkou je „príliš veľká pracovitosť“?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 20,
+    "text": "Kto z vás by prišiel prvý na párty len kvôli tomu, aby dostal najlepšie miesto na gauči?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 21,
+    "text": "Kto je typ, čo si kúpi fitnes prístupovú kartu a príde dvakrát za celý rok?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 22,
+    "text": "Kto by najskôr zabudol vrátiť knihu do knižnice a mal pokutu vyššiu ako kniha stojí?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 23,
+    "text": "Kto z vás by namiesto varenia jedla objednal rozvoz, aj keď doma má všetky ingrediencie?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 24,
+    "text": "Kto je typ, čo si kúpi vstupenky na hokej, ale pri prvom sóle Slovenska zabudne na taktiku?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 25,
+    "text": "Kto by najskôr stratil hodinky, peňaženku a kľúče naraz v jeden deň?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 26,
+    "text": "Kto z vás by si na Lidl výpredaji kúpil niečo, čo vôbec nepotrebuje, len preto, že je to lacné?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 27,
+    "text": "Kto je typ, čo si zapamätá všetky texty pesničiek, ale zabúda dátumy skúšok?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 28,
+    "text": "Kto by najskôr na rodinnom obede spustil debatu o politike?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 29,
+    "text": "Kto z vás by prišiel na pracovný meeting vo videohovore v pyžame?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 30,
+    "text": "Kto je typ, čo si na Tatry vezme príliš ľahké topánky a potom sa čuduje, prečo mu je zima?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 31,
+    "text": "Kto by najskôr na dovolenke jedol len burger a nenašiel odvahu vyskúšať miestne jedlo?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 32,
+    "text": "Kto z vás by si pozrel celú sériu dokumentu o prírode miesto písania bakalárky?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 33,
+    "text": "Kto je typ, čo si kúpi energetický nápoj ráno a tvrdí, že sa potrebuje „sprebudiť“?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 34,
+    "text": "Kto by najskôr na rodinnom výlete stratil auto na parkovisku?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 35,
+    "text": "Kto z vás by spal na stojanke MHD a prešvihnul svoju zastávku?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 36,
+    "text": "Kto je typ, čo si na párty najskôr schová dobrú Kofolu a potom predstiera, že žiadna nezostala?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 37,
+    "text": "Kto by najskôr na svadbe reval od dojatia, aj keď pozná ženícha len mesiac?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 38,
+    "text": "Kto z vás by mal doma sto záchranných nákupných tašiek z Tesca, lebo ho nestanovuje vyhodiť ich?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 39,
+    "text": "Kto je typ, čo si zapíše heslo na papier a potom stratí papier?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 40,
+    "text": "Kto by najskôr na vlaku v Košiciach spal cez zastávku a skončil v Čiernej nad Tisou?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 41,
+    "text": "Kto z vás by strávil celý víkend na gauči a klamal, že bol vonku?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 42,
+    "text": "Kto je typ, čo si objedná jedlo cez rozvoz a potom sedí pri okne a sleduje, kedy príde kuriér?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 43,
+    "text": "Kto by najskôr na pohovore odpovedal na otázku o slabostiach príliš úprimne?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 44,
+    "text": "Kto z vás by nainštaloval 10 aplikácií na produktivitu a nepoužíval ani jednu?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 45,
+    "text": "Kto je typ, čo si kúpi novú kuchynku, ale stále varí len cestoviny?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 46,
+    "text": "Kto by najskôr zabudol termín na odovzdanie projektu a odovzdal ho o polnoci?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 47,
+    "text": "Kto z vás by strávil 3 hodiny plánovaním dovolenky a potom nešiel nikam?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 48,
+    "text": "Kto je typ, čo nosí tašku plnú zdravých snackov, ale v práci zje kolegovu čokoládu?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 49,
+    "text": "Kto by najskôr na výlete do Košíc zabudol kde zaparkoval a prešiel celé sídlisko?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 50,
+    "text": "Kto z vás by zaplatil za mesačné predplatné a nikdy ho nepoužil?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 51,
+    "text": "Kto je typ, čo si kúpi bežecké topánky a potom beháva len k autobusovej zástavke?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 52,
+    "text": "Kto by najskôr na rodinných sviatkoch skontroloval prácu namiesto toho, aby bol prítomný?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 53,
+    "text": "Kto z vás by si doma urobil cvičenie podľa YouTube videa a robil len zahriatie?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 54,
+    "text": "Kto je typ, čo si pred každou zákazkou sľúbi, že tentokrát začne včas?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 55,
+    "text": "Kto by najskôr na Instagramu sledoval influencerov o zdravom životnom štýle a jedol čipsy?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 56,
+    "text": "Kto z vás by prišiel na párty a hneď sa zameral na jedlo?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 57,
+    "text": "Kto je typ, čo si kúpi kvety na trhu v Bratislave, ale zabudne ich zalievať?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 58,
+    "text": "Kto by najskôr zabudol vrátiť dlžných 5 eur kamarátovi a tvrdil, že vrátil?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 59,
+    "text": "Kto z vás by si najprv pozrel koniec filmu, aby vedel, či sa oplatí pozerať?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 60,
+    "text": "Kto je typ, čo si na ranných hodinách zastaví budík 10-krát a potom sa čuduje, prečo mešká?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 61,
+    "text": "Kto by najskôr dal na sociálne siete fotku jedla pred tým, ako začal jesť?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 62,
+    "text": "Kto z vás by zaplatil za liek na chrípku viac ako za celú nákupnú tašku zeleniny?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 63,
+    "text": "Kto je typ, čo si na MHD predstiera, že číta, aby sa vyhol konverzácii so susedmi?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 64,
+    "text": "Kto by najskôr na pracovnom výlete stratil recept a nevedel si zapamätať hotel?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 65,
+    "text": "Kto z vás by si objednal príliš veľa jedla na párty a potom závisel od toho, že hostia zjedia všetko?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 66,
+    "text": "Kto je typ, čo si kúpi bicykel a používa ho len na prechádzky po bytovke?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 67,
+    "text": "Kto by najskôr na online kurze zaplatil za certifikát, ale kurz nedokončil?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 68,
+    "text": "Kto z vás by mal v telefóne sto záložiek na čítanie a neprečítal nič?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 69,
+    "text": "Kto je typ, čo si na nákupe v Tescu kúpi len „pár vecí“ a vychádza s plným vozíkom?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 70,
+    "text": "Kto by najskôr na dovolenke hľadal wifi namiesto toho, aby si užíval prírodu?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 71,
+    "text": "Kto z vás by nastavil budík ako „motivácia“, ale potom ho ignoroval?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 72,
+    "text": "Kto je typ, čo si na párty zozbiera všetky zaujímavé fakty a nudí ostatných?",
+    "kategoria": "hluposti",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 73,
+    "text": "Kto by najskôr zabudol pomenovať dokument a uložil ho ako „Nový dokument 47“?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 74,
+    "text": "Kto z vás by si kúpil bryndzové halušky v reštaurácii a potom ich porovnával s mamkinými?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 75,
+    "text": "Kto je typ, čo si pred každou jazdou do hôr prečíta celú Wikipédiu o Tatrách?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 76,
+    "text": "Kto by najskôr na rodinnom stretnutí začal rozprávať o svojom práci, keď sa ho nikto nepýtal?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 77,
+    "text": "Kto z vás by strávil celý večer hľadaním perfektného seriálu a nič nesledoval?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 78,
+    "text": "Kto je typ, čo si na pracovnom pohovore pamätá celú históriu firmy, ale zabudne na vlastné CV?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 79,
+    "text": "Kto by najskôr zabudol vypnúť mikrofón počas online hovoru a ostatní počuli jeho rozhovor s mamou?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 80,
+    "text": "Kto z vás by si kúpil niečo „na skúšku“ a potom to bol rok nepoužíval?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 81,
+    "text": "Kto je typ, čo si na noc pred skúškou nastaví plán a potom sleduje seriál?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 82,
+    "text": "Kto by najskôr na futbale tlieskal pre vlastný tím omylom?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 83,
+    "text": "Kto z vás by si urobil zoznam na nákup a potom zabudol zoznam doma?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 84,
+    "text": "Kto je typ, čo si kúpi bioprodukty, len aby pôsobil zdravo pred kamarátmi?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 85,
+    "text": "Kto by najskôr na pracovnom meetingu omylom zdieľal osobnú obrazovku s mačacím videom?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 86,
+    "text": "Kto z vás by si kúpil permanentku do kina a prišiel len raz?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 87,
+    "text": "Kto je typ, čo si na MHD pustí hudbu nahlas zo reproduktora a myslí, že je to normálne?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 88,
+    "text": "Kto by najskôr na víkende v Bratislave zamienil ulice a skončil v zlej štvrti?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 89,
+    "text": "Kto z vás by mal v šatníku 20 párov topánok a nosil len dve?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 90,
+    "text": "Kto je typ, čo si kúpi vegánske jedlo a potom tajne zje kebab?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 91,
+    "text": "Kto by najskôr na škole využil umelú inteligenciu na domácu úlohu a priznal sa to učiteľovi?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 92,
+    "text": "Kto z vás by si na dlhú cestu nachystal 10 podcastov a počúval len jeden?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 93,
+    "text": "Kto je typ, čo si na rannom cvičení hovorí „dneska makám“ a robí len strečing?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 94,
+    "text": "Kto by najskôr na rodinnom obede spal za stolom?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 95,
+    "text": "Kto z vás by si kúpil niečo z výpredaja len preto, že je to 70% zľava, aj keď to nepotrebuje?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 96,
+    "text": "Kto je typ, čo si na pracovnom výlete zozbiera všetky perá z hotelových izieb?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 97,
+    "text": "Kto by najskôr zabudol domáce úlohy doma a tváril sa, že ich mal stratu?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 98,
+    "text": "Kto z vás by strávil 2 hodiny výberom fotky na profilovku a potom sa rozhodol nezmeniť nič?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 99,
+    "text": "Kto je typ, čo si kúpi zdravý šalát a potom k nemu dá syrový dresing?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 100,
+    "text": "Kto by najskôr stratil hodinky priamo na cvičení?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 101,
+    "text": "Kto z vás by zabudol, kde zaparkoval auto, a hľadal ho hodinu?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 102,
+    "text": "Kto je typ, čo si na párty vezme vlastné jedlo, lebo nevie, čo tam bude?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 103,
+    "text": "Kto by najskôr na pracovnom pohovore omylom povedal, že pracuje pre konkurenciu?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 104,
+    "text": "Kto z vás by mal 500 neprečítaných e-mailov a tváril sa, že to má pod kontrolou?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 105,
+    "text": "Kto je typ, čo si kúpi nový telefón len kvôli lepšej kamere, ale fotí len jedlo?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 106,
+    "text": "Kto by najskôr zabudol vypnúť alarm počas dovolenky a prebudil celé ubytovanie?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 107,
+    "text": "Kto z vás by si na futbal zobral dáždnik a potom ho zabudol pri bráne?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 108,
+    "text": "Kto je typ, čo si kúpi drahé slúchadlá a väčšinou ich používa na nič nepočúvanie?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 109,
+    "text": "Kto by najskôr na svadbe tancoval až priveľmi nadšene?",
+    "kategoria": "hluposti",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 110,
+    "text": "Kto z vás by si na škole vyučovanie prepísal do zošita a potom zošit stratil deň pred skúškou?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 111,
+    "text": "Kto je typ, čo si na párty vezme „trochu“ torty a skončí s celou trecou?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 112,
+    "text": "Kto by najskôr zabudol vypnúť televízor pred spaním a ráno ho našiel bežať?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 113,
+    "text": "Kto z vás by si kúpil novú knižku s predsavzatím čítania a otvori ju raz?",
+    "kategoria": "hluposti",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 114,
+    "text": "Kto je typ, čo v Bratislave na zastávke trolej si namiesto MHD zavolá Bolt?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 115,
+    "text": "Kto by najskôr na rodinných Vianociach daroval darček, ktorý si kúpil pre seba?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 116,
+    "text": "Kto z vás by hral hry na mobile počas pracovného meetingu a tváril sa, že si robí poznámky?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 117,
+    "text": "Kto je typ, čo si na turistiku vezme 5-litrový ruksak plný vecí a nič z toho nepoužije?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 118,
+    "text": "Kto by najskôr zabudol vypnúť kameru pred kúpaním počas online výuky?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 119,
+    "text": "Kto z vás by strávil 3 hodiny hľadaním perfektného darčeka a potom kúpil darčekovú kartu?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 120,
+    "text": "Kto je typ, čo si kúpi domáci tréningový prístroj a používa ho ako vešiak na oblečenie?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 121,
+    "text": "Kto by najskôr na narodeninovej párty omylom sfoukol sviečky pred oslávencami?",
+    "kategoria": "hluposti",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 122,
+    "text": "Kto z vás by si kúpil 5 rovnakých tričiek v rôznych farbách, lebo „nevedel vybrať“?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 123,
+    "text": "Kto je typ, čo keď hovorí cudzí jazyk, robí všetko s výraznou slovenčinou?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 124,
+    "text": "Kto by najskôr na futbalový zápas prišiel meškajúci a zakamufloval sa medzi fanúšikov?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 125,
+    "text": "Kto z vás by mal v ledničke prázdno, ale 50 Wolt appov na rozvoz jedla?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 126,
+    "text": "Kto je typ, čo si na MHD vypýta miesto a potom sa nevie poďakovať?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 127,
+    "text": "Kto by najskôr na pracovnej prezentácii mal PowerPoint úplne iný, ako mal v pláne?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 128,
+    "text": "Kto z vás by si na párty donesl vlastné pivo, ale pil by to od iných?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 129,
+    "text": "Kto je typ, čo si pred tréningom strávil viac času prípravou oblečenia ako cvičením?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 130,
+    "text": "Kto by najskôr zabudol deň odviezť dieťa na tréning a vyhovoril sa na prácu?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 131,
+    "text": "Kto z vás by si na Nový rok predsavzal, že sa naučí gitaru, a vzal lekcie na mesiac?",
+    "kategoria": "hluposti",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 132,
+    "text": "Kto je typ, čo si na párty pýta wifi heslo skôr, ako si dal niečo na pitie?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 133,
+    "text": "Kto by najskôr zabudol vianočný dar kúpiť a kúpil ho 23. decembra?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 134,
+    "text": "Kto z vás by si na cestách kúpil zúfalecky drahý obedové sendvič na letiskovom buffete?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 135,
+    "text": "Kto je typ, čo si na nový rok vyčistí desktop a považuje to za „produktivitu“?",
+    "kategoria": "internet",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 136,
+    "text": "Kto by najskôr na rozlúčkovej párty bejby sestre daroval za priateľa darček, čo kúpil v Tescu?",
+    "kategoria": "rodina",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 137,
+    "text": "Kto z vás by si kúpil rýchlovarič, lebo je „ekologickejší“, ale ho nepoužíval?",
+    "kategoria": "kazden",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 138,
+    "text": "Kto je typ, čo si pred zápasom hokeja štatisticky analyzuje tím a potom to totálne nedopadne?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 139,
+    "text": "Kto by najskôr na ceste na Tatry zabudol batériu na kameru?",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 140,
+    "text": "Kto z vás by si kúpil celý rad kníh a prečítal len prvú?",
+    "kategoria": "hluposti",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 141,
+    "text": "Kto je typ, čo si na pracovnom pohovore hovorí „moje silné stránky sú ...“ a nedbá na slabé?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 142,
+    "text": "Kto by najskôr na rannom cvičení v parku poslal selfie, a potom šiel domov jesť buchty?",
+    "kategoria": "sport",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 143,
+    "text": "Kto z vás by si kúpil celú pizzu, lebo to vychádza lacnejšie ako jedna rez?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 144,
+    "text": "Kto je typ, čo si na pracovnom výlete zozbiera krabičky z hotela a nosí ich domov?",
+    "kategoria": "praca",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 145,
+    "text": "Kto by najskôr zabudol vrátiť čítaciu kartu do knižnice a mal ju rok v batohu?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 146,
+    "text": "Kto z vás by si kúpil dobrú kávu, aj keď to stojí 5 eur za šálku?",
+    "kategoria": "peniaze",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 147,
+    "text": "Kto je typ, čo si na párty donesl vlastný obľúbený pohár?",
+    "kategoria": "hluposti",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 148,
+    "text": "Kto by najskôr na online lekciu prišiel neskoro a predstieralf, že mala internet problémy?",
+    "kategoria": "skola",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 149,
+    "text": "Kto z vás by strávil celý víkend v Bratislave na gauči a klamal, že bol v Košiciach?",
+    "kategoria": "hluposti",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 150,
+    "text": "Kto je typ, čo si kúpi bryndzové halušky v reštaurácii a potom ľutuje, že si ich neurobil doma?",
+    "kategoria": "jedlo",
+    "ostrost": "mierne"
+  },
+  {
+    "id": 151,
+    "text": "Kto by najskôr dal niekomu falošné číslo a potom ho stretol v metre?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 152,
+    "text": "Kto z vás by pil víno zo sports fľaše pri práci a dúfal, že šéf nič netuší?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 153,
+    "text": "Kto je typ, čo číta správy ex o 2 v noci a náhodou lajkne fotku z roku 2019?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 154,
+    "text": "Kto by najskôr predstieralo orgaz, aby skončila nudná scéna?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 155,
+    "text": "Kto by najskôr zabudol meno hookupu a pýtal sa ho na to priamo?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 156,
+    "text": "Kto z vás by na párty flirtoval s niekým, koho neskôr zistil, že je zadaný?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 157,
+    "text": "Kto je typ, čo po dvoch pohároch vína myslí, že vie spievať?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 158,
+    "text": "Kto by najskôr na večierku omylom dal pusu niekomu cudziemu?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 159,
+    "text": "Kto z vás by spísal svojho ex na instagrame o 3 v noci a potom vymazal správu?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 160,
+    "text": "Kto je typ, čo si na párty vezme päť panákov a potom tvrdí, že pil len vodu?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 161,
+    "text": "Kto by najskôr na prvom rande povedal niečo totálne trápne a potom to zakryl smiechom?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 162,
+    "text": "Kto z vás by mal tajný účet na Tinder-u a nevedel mu povedať priateľovi?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 163,
+    "text": "Kto je typ, čo si po párty nájde v telefóne správy, ktoré si nepamätá poslal?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 164,
+    "text": "Kto by najskôr na párty zatancoval na stolíku a potom predstieralo, že nič nebolo?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 165,
+    "text": "Kto z vás by sexting napisal omylom rodičom?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 166,
+    "text": "Kto je typ, čo po prvom pive myslí, že hovorí plynule angličtinou?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 167,
+    "text": "Kto by najskôr vyšiel na prvé rande, aby sa dozvedel, že to je brat kamarátky?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 168,
+    "text": "Kto z vás by mal doma tajný zásobník čokolády a nikdy sa nepriznal?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 169,
+    "text": "Kto je typ, čo po pití tvrdí, že je úplne triezvy, ale nevie trefiť do kľúčovej dierky?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 170,
+    "text": "Kto by najskôr na párty tancoval s niekým cudzím a neskôr mu nevedel vysvetliť prečo?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 171,
+    "text": "Kto z vás by flirtoval cez celú pracovnú párty a neskôr ľutoval?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 172,
+    "text": "Kto je typ, čo si prečíta horóskop, len ak hovorí niečo pekné?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 173,
+    "text": "Kto by najskôr na párty vyspevelal príliš veľa alkoholu a spal na gauči hostiteľa?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 174,
+    "text": "Kto z vás by pivo vylialo na niekoho a robilo sa, že nič nepočuje?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 175,
+    "text": "Kto je typ, čo si kúpi drahé parfumy, len aby zapôsobil na niekoho konkrétneho?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 176,
+    "text": "Kto by najskôr uviedol pohlavie na randení ako „závisí od nálady“?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 177,
+    "text": "Kto z vás by odišiel z párty tajne bez rozlúčky?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 178,
+    "text": "Kto je typ, čo po noci vonku príde domov o 6 ráno a robí sa, akoby vstal skoro ráno?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 179,
+    "text": "Kto by najskôr dal svojmu ex priamo do tváre, že ho/ju ešte miluje?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 180,
+    "text": "Kto z vás by mal tajne nastavený alert na profil ex-partnera?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 181,
+    "text": "Kto je typ, čo si na párty pýta „čo piješ?“ len preto, aby začal flirtovanie?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 182,
+    "text": "Kto by najskôr na párty zobudil celých susedov tancovaním?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 183,
+    "text": "Kto z vás by odišiel na záchod počas nevydarného randa a cez okno ušiel?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 184,
+    "text": "Kto je typ, čo si pred randením trikrát zmení oblečenie?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 185,
+    "text": "Kto by najskôr na párty tajne vyhodil úlovok vína do kvetináča?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 186,
+    "text": "Kto z vás by pre zlú správu od ex pil celú noc?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 187,
+    "text": "Kto je typ, čo po pití dotkne na každého cudzieho ako na svoju familiu?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 188,
+    "text": "Kto by najskôr na randení uviedol nesprávne vek o 3 roky?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 189,
+    "text": "Kto z vás by sexuálne sny o kolegu odobral ako „len sny“?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 190,
+    "text": "Kto je typ, čo po párty tajne prezerá fotky z toho večera na IG storiách kamarátov?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 191,
+    "text": "Kto by najskôr na parkete zhodil drink niekomu na biele tričko?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 192,
+    "text": "Kto z vás by flirtoval a nevedel ani meno osoby s ktorou hovorí?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 193,
+    "text": "Kto je typ, čo si na párty vylieva alkohol do potravín, aby pilo menej?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 194,
+    "text": "Kto by najskôr prebudil celú ulicu po párty?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 195,
+    "text": "Kto z vás by využil zámienku „práca v noci“ na tajné stretnutie?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 196,
+    "text": "Kto je typ, čo si na svadbe objedná šampanské a platí kartou s nádejou, že prejde?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 197,
+    "text": "Kto by najskôr pri tanci na párty omylom šliapol na nohu cudziemu?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 198,
+    "text": "Kto z vás by prišiel na párty opitý pred ostatnými?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 199,
+    "text": "Kto je typ, čo po pití zaspie na toalete a nikto ho nehľadá?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 200,
+    "text": "Kto by najskôr zatancoval striptíz na párty a potom to popieral?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 201,
+    "text": "Kto z vás by flirtoval cez celú slávnosť s niekým, kto má partnera?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 202,
+    "text": "Kto je typ, čo si na párty tancuje sám, aj keď hrá pomalá muzika?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 203,
+    "text": "Kto by najskôr dal niekomu hotdog namiesto decentného darčeka na randení?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 204,
+    "text": "Kto z vás by tajne vymazal záznamy z telefónu pred partnerom?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 205,
+    "text": "Kto je typ, čo po pití tvrdí, že vie variť, a potom spáli ryžu?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 206,
+    "text": "Kto by najskôr na párty obliekol niečo priesvitné a neskôr ľutoval?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 207,
+    "text": "Kto z vás by mal tajný pohyb peňazí, ktorý by nechcel ukázať partnerovi?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 208,
+    "text": "Kto je typ, čo po pití kontaktuje ľudí, s ktorými nechcel?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 209,
+    "text": "Kto by najskôr prejavil záujem o niekoho a potom to pripisoval pivu?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 210,
+    "text": "Kto z vás by na prvom rande klamal o svojom zamestnaní?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 211,
+    "text": "Kto je typ, čo si na párty vymení číslo, ale nikdy nezavolá?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 212,
+    "text": "Kto by najskôr na párty zaspal počas sex-scény vo filme?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 213,
+    "text": "Kto z vás by tajne čítal romantické romány v metru?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 214,
+    "text": "Kto je typ, čo pije celý večer „len jeden pohár“ a skončí s celonocným maratónom?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 215,
+    "text": "Kto by najskôr na párty tancoval piesne, ktoré ani nepozná?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 216,
+    "text": "Kto z vás by flirtoval sa so svadobčanom na svadbe?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 217,
+    "text": "Kto je typ, čo si pred randou kontroluje inštrukcie z internetu, ako sa správať?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 218,
+    "text": "Kto by najskôr prezradil, komu sa páči, po treťom pohári?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 219,
+    "text": "Kto z vás by mal sex na nevhodnom mieste?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 220,
+    "text": "Kto je typ, čo si kúpi novú spodnú bielizeň špeciálne pre rande, ale potom nič nevyjde?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 221,
+    "text": "Kto by najskôr zatancoval twerk na firemnej párty?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 222,
+    "text": "Kto z vás by prezradil tajomstvo na párty a hneď zabudol, že to povedal?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 223,
+    "text": "Kto je typ, čo si kúpi najdrahší drink z menu a tvrdí, že sa „liečí“?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 224,
+    "text": "Kto by najskôr na párty flirtoval s dvomi ľuďmi naraz?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 225,
+    "text": "Kto z vás by po pití verejne spozoroval crush a nevedel čo robiť?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 226,
+    "text": "Kto je typ, čo po párty narieka na kocovinu, ale hovorí, že to bol skvelý večer?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 227,
+    "text": "Kto by najskôr uznalo, že chodí na Tinder iba pre ego boost?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 228,
+    "text": "Kto z vás by na prvom stretnutí pred partnerom bol príliš nervózny a zaťal to?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 229,
+    "text": "Kto je typ, čo si prinesie na párty nevhodný pohár na víno, lebo „to je len ten typ“?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 230,
+    "text": "Kto by najskôr vytváral zámienku, len aby sa stretol s tým, komu sa páči?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 231,
+    "text": "Kto z vás by prezradil, že tajne sleduje ex na sociálnych sieťach?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 232,
+    "text": "Kto je typ, čo si na párty vezme „len jeden dúšok“ z fľaše niekoho iného a vystriedal celý deň?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 233,
+    "text": "Kto by najskôr na párty tancoval, aj keď nemôže, pretože ho bolí chrbát?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 234,
+    "text": "Kto z vás by sa na párty pridal ku cudzej konverzácii, lebo znel zaujímavo?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 235,
+    "text": "Kto je typ, čo po pití vymýšľa plány ako zmeniť svet a ráno ich zabudne?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 236,
+    "text": "Kto by najskôr pri prvom rande ukázal fotky mačky skôr ako vlastné?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 237,
+    "text": "Kto z vás by tajne čítal konverzácie priateľa, ak by mal možnosť?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 238,
+    "text": "Kto je typ, čo po párty nájde v kabelke veci, ktoré si nepamätá vziať?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 239,
+    "text": "Kto by najskôr volal cudziemu číslu omylom a potom sa znova zavolal, aby sa vysvetlil?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 240,
+    "text": "Kto z vás by pil za zdravie, aj keď nič neoslavuje?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 241,
+    "text": "Kto je typ, čo prezradia na párty viac o sebe ako chce?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 242,
+    "text": "Kto by najskôr uviedol „pracovnú cestu“ ako dôvod, prečo prišiel neskoro domov?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 243,
+    "text": "Kto z vás by na prvom rande porovnával nového partnera s ex?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 244,
+    "text": "Kto je typ, čo si kúpi ďalší drink, lebo „posledný nebol dostatočne silný“?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 245,
+    "text": "Kto by najskôr na párty tajne vyhodnotil všetkých outfity prítomných?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 246,
+    "text": "Kto z vás by prezradil, že si nikdy reálne nepočúva kamaráta pri hovorení o jeho problémoch?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 247,
+    "text": "Kto je typ, čo si kúpi drahý kokteil, lebo znie cool, aj keď mu nechutí?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 248,
+    "text": "Kto by najskôr na párty zakryl tvár pred foťáčom, aj keď sa dobre baví?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 249,
+    "text": "Kto z vás by tajne schoval pivo za chrbtom na párty?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 250,
+    "text": "Kto je typ, čo po pití spieva karaoke a myslí, že je hviezda?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 251,
+    "text": "Kto by najskôr predstieralo orgaz, aby skončila nudná scéna?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 252,
+    "text": "Kto by najskôr zabudol meno hookupu a pýtal sa ho na to priamo?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 253,
+    "text": "Kto z vás by spísal svojho ex na instagrame o 3 v noci a potom vymazal správu?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 254,
+    "text": "Kto by najskôr na večierku omylom dal pusu niekomu cudziemu?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 255,
+    "text": "Kto je typ, čo po dvoch pohároch vína myslí, že vie spievať?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 256,
+    "text": "Kto by najskôr dal niekomu falošné číslo len preto, aby sa zbavil/a situácie?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 257,
+    "text": "Kto z vás by mal tajne profilovku na randiacej aplikácii aj v plnohodnotnom vzťahu?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 258,
+    "text": "Kto je typ, čo si kúpi novú spodnú bielizeň pred randením a neskôr to nevyjde?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 259,
+    "text": "Kto by najskôr na párty odpadol najskôr zo všetkých a spal ešte pred polnocou?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 260,
+    "text": "Kto z vás by prezradil, že tajne komentuje chyby partnerovho oblečenia za jeho chrbtom?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 261,
+    "text": "Kto je typ, čo po párty pošle DM niekomu a ráno zistí, že to bolo napísané „opito“?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 262,
+    "text": "Kto by najskôr uviedol iné povolanie na randení, len aby pôsobil zaujímavejšie?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 263,
+    "text": "Kto z vás by mal sex v aute v Bratislave na nočnom parkovisku?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 264,
+    "text": "Kto je typ, čo si na párty stavia strategiu na zoznámenie, ale to nikdy neplánuje?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 265,
+    "text": "Kto by najskôr na randení zistil, že osoba na foto je o 10 rokov staršia ako na profilovke?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 266,
+    "text": "Kto z vás by prezradil, že si párkrát pozrel chat ex-priateľa bez povolenia?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 267,
+    "text": "Kto je typ, čo po párty hovorí, že nálada bola „meh“, ale fotky hovoria inak?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 268,
+    "text": "Kto by najskôr na párty flirtoval s niekým, len pretože to druhá osoba začala?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 269,
+    "text": "Kto z vás by prezradil, že si nikdy nebol/a verný/á celé trvanie vzťahu?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 270,
+    "text": "Kto je typ, čo si na párty vezme polku fľaše vína pre seba a tvrdí, že je to „jeden pohár“?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 271,
+    "text": "Kto by najskôr na párty tancoval na stole a potom to nepriznal?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 272,
+    "text": "Kto z vás by na randení klamal o výške?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 273,
+    "text": "Kto je typ, čo po pití tvrdí, že vie variť, ale nedokáže uvariť vajíčka?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 274,
+    "text": "Kto by najskôr na párty odhral strip poker a potom to popieral?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 275,
+    "text": "Kto z vás by prezradil, že tajne sleduje reality šou a nechce sa priznať?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 276,
+    "text": "Kto je typ, čo po párty jazdí taxíkom po celom meste, lebo nevie, kde je?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 277,
+    "text": "Kto by najskôr prezradil, že jedenkrát predbiehal ostatných vo fronte len preto, že bol opitý?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 278,
+    "text": "Kto z vás by mal sex na priestore, kde by ho mohli chytiť?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 279,
+    "text": "Kto je typ, čo po párty tajne vypije džús zo cukrárskeho pohára na chodbe?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 280,
+    "text": "Kto by najskôr prezradil, že si tajne fotografuje ľudí na ulici bez ich vedomia?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 281,
+    "text": "Kto z vás by flirtoval sa so strašne zaujímavým cudzincom a potom zabudol angličtinu?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 282,
+    "text": "Kto je typ, čo si kúpi šampanské na oslavu sám so sebou?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 283,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la do práce ešte opitý/á?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 284,
+    "text": "Kto z vás by tajne nahrával rozhovor pre prípad, že sa stane „niečo zaujímavé“?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 285,
+    "text": "Kto je typ, čo si na párty flirtuje s každým, kto sa priblíži do 1 metra?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 286,
+    "text": "Kto by najskôr na párty odpadol za rohom a ani sa nikto nepozrel?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 287,
+    "text": "Kto z vás by prezradil, že raz napísal DM kráľovnej beauty influencerky a dostal odpoveď?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 288,
+    "text": "Kto je typ, čo po pití kúpi vec za 100 eur online a ráno to vracia?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 289,
+    "text": "Kto by najskôr uviedol „cvičenie“ ako dôvod, prečo prišiel celý dňom unavený?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 290,
+    "text": "Kto z vás by prezradil, že si raz zosnoval tajný plán pomsty na kolegu?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 291,
+    "text": "Kto je typ, čo si na párty strieľa „len jeden panák“ a skončí tancujúci na stole?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 292,
+    "text": "Kto by najskôr pri nudnom prvom rande povedal, že mu/jej nepassoval/a a odišiel/la?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 293,
+    "text": "Kto z vás by prezradil, že si raz špekuloval/a, ako by bolo randenie s kolegom?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 294,
+    "text": "Kto je typ, čo po pití obvolá všetkých exov, len aby „skontroloval, ako sa majú“?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 295,
+    "text": "Kto by najskôr na párty tajne vymenil drahý drink za lacný a nikdy sa nepriznal?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 296,
+    "text": "Kto z vás by mal sex v hosteli s ostatnými v izbe?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 297,
+    "text": "Kto je typ, čo po párty nájde v telefóne záhadné fotky, ktoré si nevie vysvetliť?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 298,
+    "text": "Kto by najskôr prezradil, že raz použil/a partnerovu kartičku bez jeho/jej vedomia?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 299,
+    "text": "Kto z vás by flirtoval tajne na pracovisku, ale tvrdí, že nič také nerobí?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 300,
+    "text": "Kto je typ, čo po pití tvrdí, že vie dobre tancovať, ale vyzerá ako robot?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 301,
+    "text": "Kto by najskôr uviedol „dobrý priateľ“ ako dôvod pre pravidelné neskoré stretnutia?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 302,
+    "text": "Kto z vás by mal tajne dve randenia v jeden deň s dvomi rôznymi ľuďmi?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 303,
+    "text": "Kto je typ, čo si kúpi fľašu vína „na occasion“, ale ju vyblíha ešte ten večer?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 304,
+    "text": "Kto by najskôr na prvom rande pochválil jedlo, hoci mu nechutilo?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 305,
+    "text": "Kto z vás by prezradil, že si nikdy reálne neodfiltrovalo historiu prehliadača pred partnerom?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 306,
+    "text": "Kto je typ, čo po párty nazve taxík Uber, ale mešká o 20 minút, lebo nevie kde stojí?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 307,
+    "text": "Kto by najskôr prezradil, že si pozrel/la romantický film sám a reval od dojatia?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 308,
+    "text": "Kto z vás by flirtoval s niekým, koho vidí každý deň, len aby spestril pracovnú rutinu?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 309,
+    "text": "Kto je typ, čo po pití nakupuje veci online, ktoré nikdy nepotreboval?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 310,
+    "text": "Kto by najskôr na párty tancoval „náhodne“ hneď vedľa niekoho, komu sa páči?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 311,
+    "text": "Kto z vás by prezradil, že si raz cumeľoval/la cez okno susedov?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 312,
+    "text": "Kto je typ, čo po pití robí karaoke aj bez hudobného vybavenia?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 313,
+    "text": "Kto by najskôr na párty tajne vymenil zoznam piesní bez toho, aby to niekto vedel?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 314,
+    "text": "Kto z vás by prezradil, že si raz robil/a veštenie kariet a hneď ľutoval?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 315,
+    "text": "Kto je typ, čo po pití kontaktuje starých spolužiakov, s ktorými nechcel?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 316,
+    "text": "Kto by najskôr na prvom rande pokazil večer tým, že hovoril príliš veľa o exte?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 317,
+    "text": "Kto z vás by prezradil, že sa raz tajne potilo na pracovnom meetingu zo stresu?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 318,
+    "text": "Kto je typ, čo po párty zapredáva zverejnené fotky sociálnych médií zmazaním?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 319,
+    "text": "Kto by najskôr na párty tancoval v kruhu sám v rohmi izby?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 320,
+    "text": "Kto z vás by prezradil, že si v pokoji tajne vymaľoval karikatúru šéfa?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 321,
+    "text": "Kto je typ, čo si na párty hovorí „idem o polnoci“ a odchádza o 4 ráno?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 322,
+    "text": "Kto by najskôr prezradil, že si raz zavolal/a ex po párty, aj keď vedel/a, že to nie je dobrý nápad?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 323,
+    "text": "Kto z vás by prezradil, že si tajne závidí kamarátovi vzťah?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 324,
+    "text": "Kto je typ, čo po pití tvrdí, že vie variť dokonale, ale spáli vodu?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 325,
+    "text": "Kto by najskôr na párty flirtoval naplno a potom predstieralo, že nič nebolo?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 326,
+    "text": "Kto z vás by prezradil, že si raz prišiel/la na pracovné stretnutie v skutočnosti ešte opitý/á z predchádzajúceho večera?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 327,
+    "text": "Kto je typ, čo po pití robí plány na ďalší deň, ale ráno zabudne všetko?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 328,
+    "text": "Kto by najskôr na párty flirtoval sa s tým, čo sa mu/jej nepáčil(a) pred párkymi hodinami?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 329,
+    "text": "Kto z vás by mal sex v prírodnej rezervácii?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 330,
+    "text": "Kto je typ, čo si na nočnú párty zoberie pyžamové nohavice pod šaty?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 331,
+    "text": "Kto by najskôr prezradil, že si raz googled svojho ex namiesto spánku?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 332,
+    "text": "Kto z vás by prezradil, že si raz pridal/la cudziu osobu na Facebook len zo zvedavosti?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 333,
+    "text": "Kto je typ, čo po párty nálada hovorí „to bol najlepší večer“, keď v skutočnosti bola kocovina?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 334,
+    "text": "Kto by najskôr prezradil komu sa páči na párty omylom?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 335,
+    "text": "Kto z vás by mal sex na pracovnom výlete?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 336,
+    "text": "Kto je typ, čo si pred randením kontroluje instagram toho druhého hodiny?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 337,
+    "text": "Kto by najskôr prezradil, že si raz dostal/a placentárny parfum na narodeniny?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 338,
+    "text": "Kto z vás by prezradil, že si raz poslal/a ex darček anonymne?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 339,
+    "text": "Kto je typ, čo po párty nájde v vrecku cudzí kľúč a nikdy nezistí odkiaľ je?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 340,
+    "text": "Kto by najskôr na prvom rande preukázal, že poznamenal ex priateľa v každej aplikácii?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 341,
+    "text": "Kto z vás by prezradil, že si raz zbieral/a informácie o exte cez spoločných priateľov?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 342,
+    "text": "Kto je typ, čo sa na párty tvári triezvo, ale má päť panákov vo vnútri?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 343,
+    "text": "Kto by najskôr prezradil, že mal/a nezdravú závislosť na chatovaní s niekým?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 344,
+    "text": "Kto z vás by mal sex v aute uprostred nočného parkoviska?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 345,
+    "text": "Kto je typ, čo si kúpi drahé parfumy, len aby bolo prítomné na prvom rande?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 346,
+    "text": "Kto by najskôr prezradil, že si skontroloval/a partnerove správy bez povolenia?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 347,
+    "text": "Kto z vás by prezradil, že na párty tajne hodnotil outfity všetkých ostatných?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 348,
+    "text": "Kto je typ, čo si na párty tancuje, ale v skutočnosti nepíše žiadny pohyb s rytmom?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 349,
+    "text": "Kto by najskôr na párty zatancoval so starším človekom, len aby bol zdvorilý?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 350,
+    "text": "Kto z vás by prezradil, že tajne rád/rada pozerá trápne romantické filmy?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 351,
+    "text": "Kto je typ, čo po pití si myslí, že vie tancovať breakdance?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 352,
+    "text": "Kto by najskôr na párty flirtoval sa so súrodencom kamaráta?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 353,
+    "text": "Kto z vás by prezradil, že si raz vymazal/a celú históriu chatu, aby skryl/a niečo?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 354,
+    "text": "Kto je typ, čo po párty odchádza tajne, aby sa vyhol dlhým rozlúčkam?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 355,
+    "text": "Kto by najskôr prezradil, že si raz kopíroval/a správy z internetu a poslal/a ich ako vlastné?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 356,
+    "text": "Kto z vás by flirtoval aj keď vedel, že to nikam nevedie?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 357,
+    "text": "Kto je typ, čo po pití si je istý, že vie plávať lepšie ako Michael Phelps?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 358,
+    "text": "Kto by najskôr na párty povedal niečo, čo mal/a zachovať pre seba?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 359,
+    "text": "Kto z vás by prezradil, že si raz zbieral/a fotky niekoho z internetu do tajného albumu?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 360,
+    "text": "Kto je typ, čo si na párty tancuje, ale má zakaždým iný rytmus ako hudba?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 361,
+    "text": "Kto by najskôr prezradil, že si raz špiónoval/a priateľa bez jeho vedomia?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 362,
+    "text": "Kto z vás by prezradil, že tajne čítava horóskopy každý deň?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 363,
+    "text": "Kto je typ, čo po párty nájde v telefóne správy, ktoré nikdy neposlal/a?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 364,
+    "text": "Kto by najskôr na prvom rande prejavil príliš veľkú závislosť na emojiách?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 365,
+    "text": "Kto z vás by prezradil, že tajne sní o tom, aby bol/la celebrita?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 366,
+    "text": "Kto je typ, čo si kúpi ďalší drink len preto, aby mal záminku zostať dlhšie?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 367,
+    "text": "Kto by najskôr na párty tancoval sa s niekým, koho pozná len minútu?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 368,
+    "text": "Kto z vás by prezradil, že si raz nahradil/a romantický večer sledovaním seriálu sám?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 369,
+    "text": "Kto je typ, čo po párty prezrádza tajomstvá kamarátov, keď je opitý/á?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 370,
+    "text": "Kto by najskôr na párty tajne vymazal fotku z cudzieho telefónu, lebo vyzeralo zle?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 371,
+    "text": "Kto z vás by mal tajný zoznam ľudí, ktorým by dal/a šancu, keby bol/a single?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 372,
+    "text": "Kto je typ, čo po pití sa cíti dostatočne odvážne na to, aby zavolal/a tomu, komu sa páči?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 373,
+    "text": "Kto by najskôr na párty tancoval salsu so stojacou lampou?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 374,
+    "text": "Kto z vás by prezradil, že si raz prišiel/la na ranné stretnutie v jedenástich hodinách?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 375,
+    "text": "Kto je typ, čo si na párty hovorí, že nepije, ale má drink v ruke celý večer?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 376,
+    "text": "Kto by najskôr prezradil, že sa v skutočnosti nikdy neprečítal/a správy, ktoré ste napísali pred poslaním?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 377,
+    "text": "Kto z vás by prezradil, že si raz pred partnerom hral/a hru na telefóne, keď hovoril o niečom vážnom?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 378,
+    "text": "Kto je typ, čo po pití sa snaží rozprávať cudzou rečou s cudzincami na ulici?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 379,
+    "text": "Kto by najskôr prezradil, že si raz zabudol meno partnera pri predstavovaní kamarátom?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 380,
+    "text": "Kto z vás by prezradil, že tajne prijímal/a liky na randiacich appoch, aj keď bol/a v vzťahu?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 381,
+    "text": "Kto je typ, čo si kúpi drahé vínko na párty a potom ho pije sám?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 382,
+    "text": "Kto by najskôr na párty vymyslel/a záminku odísť, lebo sa nudil/a?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 383,
+    "text": "Kto z vás by prezradil, že si raz zabudol/la meno hookupu ešte pred odchodom?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 384,
+    "text": "Kto je typ, čo po pití tvrdí, že je „úplne ok“ a potom zabudol kde žije?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 385,
+    "text": "Kto by najskôr na prvom rande vyzradil príliš osobné informácie?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 386,
+    "text": "Kto z vás by prezradil, že si raz schoval/la dôkazy nevhodného správania pred partnerom?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 387,
+    "text": "Kto je typ, čo po párty namiesto taxíku ide pešo 5 km domov?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 388,
+    "text": "Kto by najskôr prezradil, že si raz schoval/la extra peniaze pred partnerom?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 389,
+    "text": "Kto z vás by prezradil, že si raz prečítal/a staré správy, keď sa cítil/a osamelý/á?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 390,
+    "text": "Kto je typ, čo po párty hovorí, že bol/a prvý doma, ale to neplatí?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 391,
+    "text": "Kto by najskôr prezradil, že si raz nahral/a partnerove telefonáty bez jeho vedomia?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 392,
+    "text": "Kto z vás by prezradil, že si nikdy reálne nečítal/a dôkladne zmluvu, ktorú podpisoval/a?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 393,
+    "text": "Kto je typ, čo si na párty hovorí „ostatní sú opití“, ale v skutočnosti je najopitejší?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 394,
+    "text": "Kto by najskôr prezradil, že tajne prečítal/a denník súrodenca?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 395,
+    "text": "Kto z vás by prezradil, že si raz vrátiľ/a pri hovovorí cudzej osoby, len aby predišiel/la konverzácii?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 396,
+    "text": "Kto je typ, čo po párty opakuje tie isté príbehy znova a znova?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 397,
+    "text": "Kto by najskôr prezradil, že si raz povedal/a niečo neprijemné o priateľovej rodine za jeho chrbtom?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 398,
+    "text": "Kto z vás by prezradil, že si raz kupoval/a darčeky pre seba namiesto pre ostatných?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 399,
+    "text": "Kto je typ, čo po pití sa snaží riešiť filozofické otázky s cudzím?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 400,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la opilý/á na rodinnú návštevu a nikto si nevšimol?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 401,
+    "text": "Kto z vás by prezradil, že si raz tajne nahrával/a sexuálnu konverzáciu?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 402,
+    "text": "Kto je typ, čo si kúpi šampanské len preto, lebo to prináša náladu?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 403,
+    "text": "Kto by najskôr na párty flirtoval/a so šéfom alebo kolegom?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 404,
+    "text": "Kto z vás by prezradil, že si raz zbieral/a informácie o cudzom pre vlastné pobavenie?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 405,
+    "text": "Kto je typ, čo si na párty tancuje na piesnich, ktoré nesmelo páčia?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 406,
+    "text": "Kto by najskôr na párty opustil skupinu, aby zavolal niekoho inému?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 407,
+    "text": "Kto z vás by prezradil, že si raz zatajil/a príjem, aby sa vyhol/la deleniu účtu?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 408,
+    "text": "Kto je typ, čo si na párty hovorí 'idem na wc' a strávil tam 20 minút na telefóne?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 409,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la na pracovné stretnutie za šéfa, ale robil/a niečo iné?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 410,
+    "text": "Kto z vás by prezradil, že si raz googled meno prvého randenia bez toho, aby to vedel/a?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 411,
+    "text": "Kto je typ, čo po pití tvrdí, že vie variť, ale nevie ani uvariť balíček nudlí?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 412,
+    "text": "Kto by najskôr prezradil, že si raz poslal/a správu niekomu v skupinovom chate namiesto privátne?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 413,
+    "text": "Kto z vás by prezradil, že si raz robil/a testy osobnosti len aby sa lepšie pochopil/a?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 414,
+    "text": "Kto je typ, čo po párty narieka na kocovinu, ale ráno hovorí, že to stálo za to?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 415,
+    "text": "Kto by najskôr na párty vymyslel záminku rozhovoru s niekým atraktívnym?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 416,
+    "text": "Kto z vás by prezradil, že tajne niekedy žial/a za ex ešte dlho po rozchode?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 417,
+    "text": "Kto je typ, čo si na párty hovorí 'tancujem len pre seba', ale dáva pozor, kto sa díva?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 418,
+    "text": "Kto by najskôr prezradil, že si raz spal/a len so slúchadlami, aby ignoroval/a partnera?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 419,
+    "text": "Kto z vás by prezradil, že si raz prišiel/la na večierok so zápasom, aby odôvodnil/a odchod skôr?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 420,
+    "text": "Kto je typ, čo po pití tvrdí, že vie dobre tancovať, ale vyzerá ako pingvin?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 421,
+    "text": "Kto by najskôr prezradil, že si raz potajme prišiel/la na párty, keď ho/ju tam nezval nikto?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 422,
+    "text": "Kto z vás by prezradil, že si raz schoval/la nevhodné nákupy pred partnerom?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 423,
+    "text": "Kto je typ, čo si na párty zaobstará päť čísiel a nikomu nevolá?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 424,
+    "text": "Kto by najskôr prezradil, že si raz platil/a za rande a potom ľutoval/a?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 425,
+    "text": "Kto z vás by prezradil, že si raz poslal/a romantickú správu zlej osobe?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 426,
+    "text": "Kto je typ, čo po pití sa cíti dostatočne odvážne vyskúšať nový tanec, ktorý nikdy nevidel?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 427,
+    "text": "Kto by najskôr prezradil, že si raz predstieralo záujem o hoby partnera len kvôli dobrým dojmom?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 428,
+    "text": "Kto z vás by prezradil, že si raz prišiel/la opitý/á na rodinnú párty a nikto si nič nevšimol?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 429,
+    "text": "Kto je typ, čo po párty hovorí, že všetko pamätá, ale v skutočnosti nič?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 430,
+    "text": "Kto by najskôr prezradil, že si raz pri prvom rande kontroloval/a mobil pod stolom?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 431,
+    "text": "Kto z vás by prezradil, že si raz schoval/la skutočné výsledky skúšky pred rodičmi?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 432,
+    "text": "Kto je typ, čo si kúpi fľašu šampanského na párty, ale ho v skutočnosti nezdieľa?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 433,
+    "text": "Kto by najskôr prezradil, že si raz googled svoje meno, len aby videl, čo nájde?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 434,
+    "text": "Kto z vás by prezradil, že si raz prišiel/la opitý/á do práce a tváril/a sa triezvo?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 435,
+    "text": "Kto je typ, čo po pití si predstavuje, ako by dopadol stand-up show?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 436,
+    "text": "Kto by najskôr prezradil, že si raz platil/a za randenie aplikáciu a nepovedal/a partnerovi?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 437,
+    "text": "Kto z vás by prezradil, že si raz pri partneri sledoval/a romantickú komédiu a tajne plakal?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 438,
+    "text": "Kto je typ, čo po párty zapíše plán nasledujúceho dňa, ale ráno zabudne všetky plány?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 439,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la na randenie po 30 minútach a klamal o príčine?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 440,
+    "text": "Kto z vás by prezradil, že si raz vymaľoval karikatúru ex-partnera?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 441,
+    "text": "Kto je typ, čo si kúpi drahý kokteil pre páru, ale potom ho pije sám?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 442,
+    "text": "Kto by najskôr prezradil, že si raz poplietol/la rodinné sviatky s dátumom rande?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 443,
+    "text": "Kto z vás by prezradil, že si raz zbieral/a memorabílie exte bez toho, aby to vedel/a?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 444,
+    "text": "Kto je typ, čo po pití sa cíti filozoficky a chce debatovať o zmysle života?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 445,
+    "text": "Kto by najskôr prezradil, že si raz pri rande skontroloval/a instagram svojho ex?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 446,
+    "text": "Kto z vás by prezradil, že si raz prišiel/la na pracovnú párty a nikto ho/ju nepoznal?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 447,
+    "text": "Kto je typ, čo po párty nájde cudzí oblek vo svojom aute a nikdy to nevysvetlí?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 448,
+    "text": "Kto by najskôr prezradil, že si raz poslal/a explicitné foto nesprávnej osobe?",
+    "kategoria": "sex",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 449,
+    "text": "Kto z vás by prezradil, že tajne prechádzal cez profily ex-partnera z nového účtu?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 450,
+    "text": "Kto je typ, čo po pití tvrdí, že hovorí po španielsky, ale vie len „hola“?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 451,
+    "text": "Kto by najskôr prezradil, že si raz zabudol/la meno kolegu po rokoch práce s ním?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 452,
+    "text": "Kto z vás by prezradil, že tajne preferuje byť sám/sama doma ako na párty?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 453,
+    "text": "Kto je typ, čo si na párty schová výbornú fľašu vína do batôžka?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 454,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la na párty s niekým, koho nikto nepoznal?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 455,
+    "text": "Kto z vás by prezradil, že si raz odpovedal/a na sériu textov, mysliac si, že je to iná osoba?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 456,
+    "text": "Kto je typ, čo po pití si je istý, že vie uhradiť spor bez hádky?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 457,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la opitý/á na matkin obed?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 458,
+    "text": "Kto z vás by prezradil, že si raz zbieral/a fotky ex-partnera do tajného priečinka?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 459,
+    "text": "Kto je typ, čo si na párty pustí pesničku zo stovky rokov a tvrdí, že je to coolný ťah?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 460,
+    "text": "Kto by najskôr prezradil, že si raz platil/a za delikátesu pri rande a potom to roztrieskal?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 461,
+    "text": "Kto z vás by prezradil, že si raz špiónoval/a partnerov telefón s výhovrorkou 'len si vypožičal'?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 462,
+    "text": "Kto je typ, čo po pití si spomína na najtrápnejší moment svojho života?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 463,
+    "text": "Kto by najskôr prezradil, že si raz robil/a svoju vlastnú fanfiction o obľúbenej celebrite?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 464,
+    "text": "Kto z vás by prezradil, že si raz zabudol/la ukončiť pracovný hovor pred zdieľaním osobného rozhovoru?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 465,
+    "text": "Kto je typ, čo po párty nájde v telefóne záhadný kontakt a nevie si ho vysvetliť?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 466,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la na randenie s výhovorkou, že 'takmer prišiel vlak'?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 467,
+    "text": "Kto z vás by prezradil, že si raz schoval/la zásoby čokolády pred partnerom?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 468,
+    "text": "Kto je typ, čo si kúpi novú randiacu aplikáciu 'len aby pozrel, čo tam je'?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 469,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la na pracovné stretnutie v pyžamách pod nohavicami?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 470,
+    "text": "Kto z vás by prezradil, že si raz platil/a viac za taxi, len aby sa vyhol/la MHD?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 471,
+    "text": "Kto je typ, čo si na párty schová drahé pivo za rohom a príde k nemu len sám?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 472,
+    "text": "Kto by najskôr prezradil, že si raz robil/a falošný hovor, aby sa vyhol/la konverzácii?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 473,
+    "text": "Kto z vás by prezradil, že si raz utiekol/la z randenia cez toalety?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 474,
+    "text": "Kto je typ, čo po pití si je istý, že vie hrať gitaru, hoci nikdy nehral?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 475,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la opitý/á na svadobnú oslavu?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 476,
+    "text": "Kto z vás by prezradil, že tajne vymaže správy, ktoré by mohli byť nesprávne pochopené?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 477,
+    "text": "Kto je typ, čo po párty napíše esej o svojom nálady na Instagrame?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 478,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la na randenie s fotkou ex v peňaženke?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 479,
+    "text": "Kto z vás by prezradil, že si raz kupoval/a veci len preto, aby zapôsobil/a na niekoho?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 480,
+    "text": "Kto je typ, čo si kúpi fľašu prosecco 'iba na ochutnávku'?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 481,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la opitý/á na futbalový zápas a vôbec nevie výsledok?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 482,
+    "text": "Kto z vás by prezradil, že si raz zabudol/la meno svojho prvého šéfa?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 483,
+    "text": "Kto je typ, čo po pití sa správa, ako keby si pamätal všetky detaily, ale nič nepamätá?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 484,
+    "text": "Kto by najskôr prezradil, že si raz zbieral/a textové správy romantického partnera ako 'spomienky'?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 485,
+    "text": "Kto z vás by prezradil, že si raz prišiel/la na párty bez pozvánky a predstieralo, že je tu správne?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 486,
+    "text": "Kto je typ, čo si kúpi drahý koktail, lebo pôsobí zaujímavo, ale nepáči sa mu chuť?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 487,
+    "text": "Kto by najskôr prezradil, že si raz odoslal/a celú skupinovú správu namiesto privátnej?",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 488,
+    "text": "Kto z vás by prezradil, že si raz platil/a viac za romantickú atmosféru v reštaurácii, ktorá stála za nič?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 489,
+    "text": "Kto je typ, čo po pití tvrdí, že vie variť thajskú kuchyňu, hoci nevie ani uvariť ryžu?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 490,
+    "text": "Kto by najskôr prezradil, že si raz zrušil/a rande cez SMS, lebo nemal/a odvahu zavolať?",
+    "kategoria": "flirt",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 491,
+    "text": "Kto z vás by prezradil, že si raz kupoval/a darčeky, ktoré sa sám/sama chcel/a nechať?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 492,
+    "text": "Kto je typ, čo si na párty hovorí, že nepije, ale pije 'malé dúšky' celý večer?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 493,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la opitý/á na vernisáž alebo výstavu?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 494,
+    "text": "Kto z vás by prezradil, že si raz zbieral/a staré fotky ex z Facebooku na pamiatku?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 495,
+    "text": "Kto je typ, čo po pití sa neopatrne snaží opraviť každý vzťah, aj keď ho nikto neprosil?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 496,
+    "text": "Kto by najskôr prezradil, že si raz kupoval/a darčekové certifikáty pre seba cez výpredaj?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 497,
+    "text": "Kto z vás by prezradil, že si raz odpovedal/a na otázku o starom vzťahu úplne odlišne, ako sa to stalo?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 498,
+    "text": "Kto je typ, čo po pití nastavuje alarmy, ktoré ráno ignoruje?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 499,
+    "text": "Kto by najskôr prezradil, že si raz prišiel/la na svadobnú oslavu opitý/á a nikto si nevšimol?",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne"
+  },
+  {
+    "id": 500,
+    "text": "Kto z vás by prezradil, že tajne preferuje samotu nad všetkými partiami a tajne sa teší na pokojný víkend doma?",
+    "kategoria": "tajomstva",
+    "ostrost": "odvazne"
+  }
+]

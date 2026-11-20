@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "slovo": "Bryndzové halušky",
+    "kategoria": "slovensko",
+    "ostrost": "mierne",
+    "napovedy": [
+      "tradičné slovenské jedlo",
+      "ovčí syr",
+      "slaninka a zemiaky"
+    ]
+  },
+  {
+    "id": 2,
+    "slovo": "Tatranský čaj",
+    "kategoria": "slovensko",
+    "ostrost": "mierne",
+    "napovedy": [
+      "bylinný likér z hôr",
+      "vysoké percento alkoholu",
+      "typický slovenský suvenír"
+    ]
+  },
+  {
+    "id": 3,
+    "slovo": "Bratislavský hrad",
+    "kategoria": "miesta",
+    "ostrost": "mierne",
+    "napovedy": [
+      "obrátený stôl so štyrmi vežami",
+      "výhľad na Dunaj",
+      "dominantné hlavné mesto"
+    ]
+  },
+  {
+    "id": 4,
+    "slovo": "Kofola",
+    "kategoria": "jedlo",
+    "ostrost": "mierne",
+    "napovedy": [
+      "československý kolový nápoj",
+      "bylinný extrakt Kofo",
+      "ak ju miluješ, niet čo riešiť"
+    ]
+  },
+  {
+    "id": 5,
+    "slovo": "Vysoké Tatry",
+    "kategoria": "miesta",
+    "ostrost": "mierne",
+    "napovedy": [
+      "najvyššie slovenské pohorie",
+      "Gerlachovský štít",
+      "kamzíky a plesá"
+    ]
+  },
+  {
+    "id": 6,
+    "slovo": "Spišský hrad",
+    "kategoria": "miesta",
+    "ostrost": "mierne",
+    "napovedy": [
+      "jeden z najväčších hradov v strednej Európe",
+      "UNESCO pamiatka",
+      "biela zrúcanina na kopci"
+    ]
+  },
+  {
+    "id": 7,
+    "slovo": "Dunaj",
+    "kategoria": "priroda",
+    "ostrost": "mierne",
+    "napovedy": [
+      "druhá najdlhšia rieka Európy",
+      "preteká cez Bratislavu",
+      "oddeľuje Petržalku od Starého Mesta"
+    ]
+  },
+  {
+    "id": 8,
+    "slovo": "Devín",
+    "kategoria": "miesta",
+    "ostrost": "mierne",
+    "napovedy": [
+      "sútok Moravy a Dunaja",
+      "gotická zrúcanina",
+      "Štúrovci a národná hrdosť"
+    ]
+  },
+  {
+    "id": 9,
+    "slovo": "Kapustnica",
+    "kategoria": "jedlo",
+    "ostrost": "mierne",
+    "napovedy": [
+      "vianočná polievka",
+      "kvasená kapusta s hubami",
+      "údené mäso a klobása"
+    ]
+  },
+  {
+    "id": 10,
+    "slovo": "Lomnický štít",
+    "kategoria": "miesta",
+    "ostrost": "mierne",
+    "napovedy": [
+      "lanovka zo Skalnatého plesa",
+      "observatórium a noc na vrchole",
+      "druhý najvyšší štít Tatier"
+    ]
+  },
+  {
+    "id": 11,
+    "slovo": "Oravský hrad",
+    "kategoria": "miesta",
+    "ostrost": "mierne",
+    "napovedy": [
+      "orlie hniezdo na skale",
+      "natáčal sa tam Nosferatu",
+      "strmý kopec nad riekou"
+    ]
+  },
+  {
+    "id": 12,
+    "slovo": "Zimný štadión Ondreja Nepelu",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "hokejová aréna v Bratislave",
+      "majstrovstvá sveta v hokeji",
+      "ľadová plocha a fanúšikovia"
+    ]
+  },
+  {
+    "id": 13,
+    "slovo": "Čičmany",
+    "kategoria": "slovensko",
+    "ostrost": "mierne",
+    "napovedy": [
+      "dedina s bielymi geometrickými vzormi",
+      "drevenice ako z rozprávky",
+      "folklórne ornamenty"
+    ]
+  },
+  {
+    "id": 14,
+    "slovo": "Bojnický zámok",
+    "kategoria": "miesta",
+    "ostrost": "mierne",
+    "napovedy": [
+      "rozprávkový zámok ako z Disney",
+      "strašidelné noci a sokoliari",
+      "Pálfiho hrobka"
+    ]
+  },
+  {
+    "id": 15,
+    "slovo": "Hokejová prilba",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "ochrana hlavy na ľade",
+      "mriežka alebo plexisklo",
+      "nosia ju všetci hráči"
+    ]
+  },
+  {
+    "id": 16,
+    "slovo": "Slovenská pošta",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "žltá tabuľa a dlhé rady",
+      "žltý lístok v schránke",
+      "dôchodky a balíky"
+    ]
+  },
+  {
+    "id": 17,
+    "slovo": "Zubná kefka",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "ranná a večerná hygiena",
+      "štetinky a pasta",
+      "používa sa v kúpeľni"
+    ]
+  },
+  {
+    "id": 18,
+    "slovo": "Lidl taška",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "modro-žlto-červené logo",
+      "nákup v zľave",
+      "ikonický symbol úsporného Slováka"
+    ]
+  },
+  {
+    "id": 19,
+    "slovo": "Borovička",
+    "kategoria": "jedlo",
+    "ostrost": "mierne",
+    "napovedy": [
+      "tradičný borievkový destilát",
+      "lesná vôňa",
+      "slovenský národný alkohol"
+    ]
+  },
+  {
+    "id": 20,
+    "slovo": "Treska v majonéze",
+    "kategoria": "jedlo",
+    "ostrost": "mierne",
+    "napovedy": [
+      "rybací šalát zo Žiliny",
+      "dva rožky k tomu",
+      "desiata v staničnom bufete"
+    ]
+  },
+  {
+    "id": 21,
+    "slovo": "MHD Bratislava",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "červené autobusy a električky",
+      "revízor v civile",
+      "označovač lístkov a SMS lístok"
+    ]
+  },
+  {
+    "id": 22,
+    "slovo": "Festival Pohoda",
+    "kategoria": "pop-kultura",
+    "ostrost": "mierne",
+    "napovedy": [
+      "trenčianske letisko",
+      "najznámejší slovenský hudobný festival",
+      "stany, hudba a dáždniky"
+    ]
+  },
+  {
+    "id": 23,
+    "slovo": "Štefánik",
+    "kategoria": "slovensko",
+    "ostrost": "mierne",
+    "napovedy": [
+      "astronóm, letec a generál",
+      "mohyla na Bradle",
+      "spoluzakladateľ Československa"
+    ]
+  },
+  {
+    "id": 24,
+    "slovo": "Zlaté piesky",
+    "kategoria": "miesta",
+    "ostrost": "mierne",
+    "napovedy": [
+      "prírodné jazero v Bratislave",
+      "kúpanie, tobogány a Uprising",
+      "pobrežie s plážou a bufetmi"
+    ]
+  },
+  {
+    "id": 25,
+    "slovo": "Rýchlik Zemplín",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "nočný vlak Bratislava - Humenné",
+      "lehátka, kupé a meškanie",
+      "spája západ a východ"
+    ]
+  },
+  {
+    "id": 26,
+    "slovo": "Medveď hnedý",
+    "kategoria": "priroda",
+    "ostrost": "mierne",
+    "napovedy": [
+      "najväčšia slovenská šelma",
+      "Tatry a kontajnery",
+      "zimný spánok a med"
+    ]
+  },
+  {
+    "id": 27,
+    "slovo": "Slovenské národné povstanie",
+    "kategoria": "slovensko",
+    "ostrost": "mierne",
+    "napovedy": [
+      "rok 1944 a Banská Bystrica",
+      "pamätník v tvare rozpolteného srdca",
+      "partizáni a hory"
+    ]
+  },
+  {
+    "id": 28,
+    "slovo": "Bábovka",
+    "kategoria": "jedlo",
+    "ostrost": "mierne",
+    "napovedy": [
+      "kruhová forma s otvorom v strede",
+      "nedeľný koláč od babičky",
+      "posypaná práškovým cukrom"
+    ]
+  },
+  {
+    "id": 29,
+    "slovo": "Dvojkríž",
+    "kategoria": "slovensko",
+    "ostrost": "mierne",
+    "napovedy": [
+      "stojí na troch vŕškoch",
+      "slovenský štátny znak",
+      "Cyril a Metod"
+    ]
+  },
+  {
+    "id": 30,
+    "slovo": "Parenica",
+    "kategoria": "jedlo",
+    "ostrost": "mierne",
+    "napovedy": [
+      "parený syr zvinutý do stuhy",
+      "údená alebo neúdená",
+      "lahôdka z Liptova"
+    ]
+  },
+  {
+    "id": 31,
+    "slovo": "Smartfón",
+    "kategoria": "technologie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "dotykový displej vo vrecku",
+      "sociálne siete a notifikácie",
+      "vybije sa po celom dni"
+    ]
+  },
+  {
+    "id": 32,
+    "slovo": "Netflix",
+    "kategoria": "pop-kultura",
+    "ostrost": "mierne",
+    "napovedy": [
+      "červené písmeno N",
+      "streamovanie seriálov a filmov",
+      "otázka: Ešte stále pozeráte?"
+    ]
+  },
+  {
+    "id": 33,
+    "slovo": "Wi-Fi router",
+    "kategoria": "technologie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "blikajúce zelené kontrolky",
+      "heslo na spodnej strane",
+      "vypni a zapni zo zásuvky"
+    ]
+  },
+  {
+    "id": 34,
+    "slovo": "Slúchadlá",
+    "kategoria": "technologie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "do uší alebo cez hlavu",
+      "potlačenie hluku a hudba",
+      "zamotaný kábel alebo Bluetooth"
+    ]
+  },
+  {
+    "id": 35,
+    "slovo": "PlayStation",
+    "kategoria": "technologie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "herná konzola od Sony",
+      "ovládač s trojuholníkom a krížikom",
+      "FIFA a GTA"
+    ]
+  },
+  {
+    "id": 36,
+    "slovo": "Vysávač",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "hučiaci domáci spotrebič",
+      "vysáva prach a omrvinky",
+      "strašiak pre mačky a psov"
+    ]
+  },
+  {
+    "id": 37,
+    "slovo": "Mikrovlnka",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "otočný sklenený tanier",
+      "ohreje tanier a jedlo ostane studené",
+      "cinknutie po skončení"
+    ]
+  },
+  {
+    "id": 38,
+    "slovo": "Dáždnik",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "otvára sa v daždi",
+      "vietor ho obráti naruby",
+      "vždy ho niekde zabudneš"
+    ]
+  },
+  {
+    "id": 39,
+    "slovo": "Slnečné okuliare",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "ochrana pred UV lúčmi",
+      "nosia sa na nose alebo na čele",
+      "letný doplnok"
+    ]
+  },
+  {
+    "id": 40,
+    "slovo": "Termoska",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "udrží čaj horúci na túre",
+      "dvojitá nerezová stena",
+      "skrutkovací uzáver a kalíšok"
+    ]
+  },
+  {
+    "id": 41,
+    "slovo": "Bicykel",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "dve kolesá a pedále",
+      "reťaz, zvonček a helma",
+      "hrádze a cyklotrasy"
+    ]
+  },
+  {
+    "id": 42,
+    "slovo": "Kolobežka",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "elektrická alebo mechanická",
+      "pohodená na chodníku",
+      "odrážanie jednou nohou"
+    ]
+  },
+  {
+    "id": 43,
+    "slovo": "Stan",
+    "kategoria": "priroda",
+    "ostrost": "mierne",
+    "napovedy": [
+      "kolíky, plachta a tyčky",
+      "spí sa v ňom v spacáku",
+      "kempovanie v prírode"
+    ]
+  },
+  {
+    "id": 44,
+    "slovo": "Gitara",
+    "kategoria": "pop-kultura",
+    "ostrost": "mierne",
+    "napovedy": [
+      "šesť strún a drevené telo",
+      "táborák a pesničky Nedvědovcov",
+      "brnkanie a akordy"
+    ]
+  },
+  {
+    "id": 45,
+    "slovo": "Hrnček",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "má uško na držanie",
+      "pije sa z neho káva alebo čaj",
+      "keramický alebo smaltovaný"
+    ]
+  },
+  {
+    "id": 46,
+    "slovo": "Kladivo",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "zatĺkanie klincov",
+      "ťažká kovová hlava a rúčka",
+      "náradie domáceho majstra"
+    ]
+  },
+  {
+    "id": 47,
+    "slovo": "Peňaženka",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "odkladanie mincí a bankoviek",
+      "občiansky a platobné karty",
+      "nosí sa v zadnom vrecku"
+    ]
+  },
+  {
+    "id": 48,
+    "slovo": "Zrkadlo",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "odráža obraz človeka",
+      "sedem rokov nešťastia pri rozbití",
+      "kontrola účesu v kúpeľni"
+    ]
+  },
+  {
+    "id": 49,
+    "slovo": "Vankúš",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "mäkký podklad pod hlavu",
+      "perie alebo pamäťová pena",
+      "hádže sa pri bitkách v posteli"
+    ]
+  },
+  {
+    "id": 50,
+    "slovo": "Budík",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "nepríjemné ranné zvonenie",
+      "tlačidlo odložiť o 5 minút",
+      "ničí pekné sny"
+    ]
+  },
+  {
+    "id": 51,
+    "slovo": "Papuče",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "domáca obuv pre hostí",
+      "zahrejú nohy od studenej podlahy",
+      "stará mama ich núti obuť"
+    ]
+  },
+  {
+    "id": 52,
+    "slovo": "Žehlička",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "horúca para a hladká košeľa",
+      "žehliaca doska",
+      "strach, či si ju nezabudol vypnúť"
+    ]
+  },
+  {
+    "id": 53,
+    "slovo": "Kľúčenka",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "zväzok kovových kľúčov",
+      "prívesok a otvárač na pivo",
+      "štrngá vo vrecku"
+    ]
+  },
+  {
+    "id": 54,
+    "slovo": "Sviečka",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "vosk a knôt",
+      "plamienok pri výpadku prúdu",
+      "romantická atmosféra"
+    ]
+  },
+  {
+    "id": 55,
+    "slovo": "Lopata",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "odhadzovanie snehu v zime",
+      "práca na záhrade a piesku",
+      "široký plech a drevená násada"
+    ]
+  },
+  {
+    "id": 56,
+    "slovo": "Teplomer",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "meranie horúčky pod pazuchou",
+      "36,6 °C alebo ortuť",
+      "ukazuje teplotu vonku"
+    ]
+  },
+  {
+    "id": 57,
+    "slovo": "Lego",
+    "kategoria": "pop-kultura",
+    "ostrost": "mierne",
+    "napovedy": [
+      "plastové farebné kocky",
+      "stúpiť naň v noci bosou nohou bolí",
+      "dánska stavebnica"
+    ]
+  },
+  {
+    "id": 58,
+    "slovo": "Puk",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "tvrdý kus vulkanizovanej gumy",
+      "lieta rýchlosťou 150 km/h",
+      "strieľa sa ním gól do bránky"
+    ]
+  },
+  {
+    "id": 59,
+    "slovo": "Lyže",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "dve dlhé dosky na nohách",
+      "zjazdovka, sneh a vleky",
+      "voskovanie a palice"
+    ]
+  },
+  {
+    "id": 60,
+    "slovo": "Sánky",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "drevené s kovovými sklznicami",
+      "ťahajú sa na šnúrke do kopca",
+      "detská zábava v zime"
+    ]
+  },
+  {
+    "id": 61,
+    "slovo": "Krb",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "praskajúce drevo a oheň",
+      "komín a teplo v obývačke",
+      "Mikuláš z neho zlieza dole"
+    ]
+  },
+  {
+    "id": 62,
+    "slovo": "Kreslo",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "pohodlné sedenie pre jedného",
+      "opierky na ruky",
+      "obľúbené miesto starého otca"
+    ]
+  },
+  {
+    "id": 63,
+    "slovo": "Batoh",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "nosí sa na chrbte",
+      "popruhy a priehradky",
+      "do školy aj na túru"
+    ]
+  },
+  {
+    "id": 64,
+    "slovo": "Páska na oči",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "na spanie v lietadle",
+      "neprepustí žiadne svetlo",
+      "pomáha pri migréne"
+    ]
+  },
+  {
+    "id": 65,
+    "slovo": "Pexeso",
+    "kategoria": "pop-kultura",
+    "ostrost": "mierne",
+    "napovedy": [
+      "hľadanie dvoch rovnakých kartičiek",
+      "tréning pamäte pre deti",
+      "obracanie rubom hore"
+    ]
+  },
+  {
+    "id": 66,
+    "slovo": "Čajník",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "píska, keď vrie voda",
+      "nalievanie do šálok",
+      "sitko na lúhovanie byliniek"
+    ]
+  },
+  {
+    "id": 67,
+    "slovo": "Hrebeň",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "zuby na rozčesávanie vlasov",
+      "používa sa pred zrkadlom",
+      "nosí sa v kabelke"
+    ]
+  },
+  {
+    "id": 68,
+    "slovo": "Kravata",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "viaže sa okolo goliera košele",
+      "windsorský uzol",
+      "oblek na svadbu alebo ples"
+    ]
+  },
+  {
+    "id": 69,
+    "slovo": "Opasok",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "drží nohavice v páse",
+      "koža s kovovou prackou",
+      "dierky na uťahovanie"
+    ]
+  },
+  {
+    "id": 70,
+    "slovo": "Rukavice",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "päťprstové alebo palčiaky",
+      "zahrejú ruky v mraze",
+      "záchrana pri guľovačke"
+    ]
+  },
+  {
+    "id": 71,
+    "slovo": "Šál",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "ovinutý okolo krku",
+      "pletená vlna",
+      "chráni pred prievanom a chrípkou"
+    ]
+  },
+  {
+    "id": 72,
+    "slovo": "Čapica",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "teplá pokrývka hlavy",
+      "brmbolec na vrchu",
+      "chlapci si ju dávajú dole v triede"
+    ]
+  },
+  {
+    "id": 73,
+    "slovo": "Plavky",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "oblečenie do bazéna a mora",
+      "rýchloschnúci materiál",
+      "šortky alebo bikiny"
+    ]
+  },
+  {
+    "id": 74,
+    "slovo": "Fľaša na vodu",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "hydratácia pri športe",
+      "náustok alebo šraubovací vrchnák",
+      "opakovane použiteľná"
+    ]
+  },
+  {
+    "id": 75,
+    "slovo": "Švihadlo",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "lanko s rúčkami",
+      "preskakovanie na kardio tréningu",
+      "boxerský rozcvičovací nástroj"
+    ]
+  },
+  {
+    "id": 76,
+    "slovo": "Hojdacia sieť",
+    "kategoria": "priroda",
+    "ostrost": "mierne",
+    "napovedy": [
+      "uviaže sa medzi dva stromy",
+      "oddych a hojdanie na záhrade",
+      "pohodlné letné ležadlo"
+    ]
+  },
+  {
+    "id": 77,
+    "slovo": "Šachovnica",
+    "kategoria": "pop-kultura",
+    "ostrost": "mierne",
+    "napovedy": [
+      "64 čierno-bielych políčok",
+      "kráľ, dáma, pešiaci",
+      "šach-mat po premyslenom ťahu"
+    ]
+  },
+  {
+    "id": 78,
+    "slovo": "Karimatka",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "penová podložka na spanie",
+      "izoluje chlad od zeme",
+      "zrolovaná na batohu"
+    ]
+  },
+  {
+    "id": 79,
+    "slovo": "Spacák",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "teplá múmia na zips",
+      "spanie v stane a pod širákom",
+      "kompresný obal"
+    ]
+  },
+  {
+    "id": 80,
+    "slovo": "Baterka",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "kužeľ svetla v tme",
+      "čelovka na hlave",
+      "tužkové batérie"
+    ]
+  },
+  {
+    "id": 81,
+    "slovo": "Kompas",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "magnetická strelka",
+      "ukazuje sever",
+      "navigácia v neznámom lese"
+    ]
+  },
+  {
+    "id": 82,
+    "slovo": "Pas",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "bordová knižka s biometriou",
+      "kontrola na hraniciach a letisku",
+      "pečiatky z exotických krajín"
+    ]
+  },
+  {
+    "id": 83,
+    "slovo": "Palubný lístok",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "QR kód v mobile alebo papier",
+      "číslo sedadla a brána v lietadle",
+      "boarding pass"
+    ]
+  },
+  {
+    "id": 84,
+    "slovo": "Kufor na kolieskach",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "ťahá sa za výsuvnú rúčku",
+      "váženie batožiny pred odletom",
+      "klape na dlažobných kockách"
+    ]
+  },
+  {
+    "id": 85,
+    "slovo": "Slnečník",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "zapichne sa do piesku na pláži",
+      "tieň počas poludňajšieho úpalu",
+      "veľká látková strieška"
+    ]
+  },
+  {
+    "id": 86,
+    "slovo": "Nafukovačka",
+    "kategoria": "cestovanie",
+    "ostrost": "mierne",
+    "napovedy": [
+      "plastové lehátko na vodu",
+      "fúka sa ústami alebo pumpou",
+      "plávanie na hladine mora"
+    ]
+  },
+  {
+    "id": 87,
+    "slovo": "Potápačské okuliare",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "šnorchel a gumený pásik",
+      "pohľad na ryby pod hladinou",
+      "nesmú sa zahmlievať"
+    ]
+  },
+  {
+    "id": 88,
+    "slovo": "Záchranné koleso",
+    "kategoria": "sport",
+    "ostrost": "mierne",
+    "napovedy": [
+      "oranžový kruh hodený topiacej sa osobe",
+      "visí na lodiach a mólach",
+      "udrží človeka nad vodou"
+    ]
+  },
+  {
+    "id": 89,
+    "slovo": "Hasiaci prístroj",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "červená tlaková nádoba",
+      "poistka a hadica na penu",
+      "visí na chodbe pre prípad požiaru"
+    ]
+  },
+  {
+    "id": 90,
+    "slovo": "Lekárnička",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "obväzy, náplasti a dezinfekcia",
+      "povinná výbava v aute",
+      "biela škatuľa s červeným krížom"
+    ]
+  },
+  {
+    "id": 91,
+    "slovo": "Nožnice",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "dve ostria spojené skrutkou",
+      "strihanie papiera a látky",
+      "nesmie sa s nimi behať"
+    ]
+  },
+  {
+    "id": 92,
+    "slovo": "Lepiaca páska",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "strieborná 'duck tape'",
+      "opraví takmer čokoľvek na svete",
+      "lepí a trhá sa rukami"
+    ]
+  },
+  {
+    "id": 93,
+    "slovo": "Skrutkovač",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "krížový alebo plochý hrot",
+      "skladanie nábytku z IKEA",
+      "doťahovanie uvoľnených skrutiek"
+    ]
+  },
+  {
+    "id": 94,
+    "slovo": "Kľúč od auta",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "tlačidlo na odomknutie na diaľku",
+      "imobilizér a logo značky",
+      "štartovanie stlačením gombíka"
+    ]
+  },
+  {
+    "id": 95,
+    "slovo": "Otvárač na víno",
+    "kategoria": "jedlo",
+    "ostrost": "mierne",
+    "napovedy": [
+      "vývrtka so špirálou",
+      "vyťahovanie korkovej zátky",
+      "kríza, keď ho na chate nikto nemá"
+    ]
+  },
+  {
+    "id": 96,
+    "slovo": "Pivný pohár (krígeľ)",
+    "kategoria": "jedlo",
+    "ostrost": "mierne",
+    "napovedy": [
+      "hrubé sklo s masívnym uchom",
+      "hustá biela pena na vrchu",
+      "štrnganie 'na zdravie'"
+    ]
+  },
+  {
+    "id": 97,
+    "slovo": "Popolník",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "odklepávanie popola z cigariet",
+      "sklenená alebo keramická miska",
+      "stojí na terase podniku"
+    ]
+  },
+  {
+    "id": 98,
+    "slovo": "Zapaľovač",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "kamienok, plyn a iskra",
+      "vždy ho niekto na párty ukradne",
+      "zapaľovanie sviečok na torte"
+    ]
+  },
+  {
+    "id": 99,
+    "slovo": "Balíček žuvačiek",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "mentolová chuť a svieži dych",
+      "každý okolo teba chce jednu",
+      "lepia sa pod stôl"
+    ]
+  },
+  {
+    "id": 100,
+    "slovo": "Papierové vreckovky",
+    "kategoria": "kazden",
+    "ostrost": "mierne",
+    "napovedy": [
+      "pri nádche a kýchaní",
+      "desať kusov v plastovom balíčku",
+      "rozpadnú sa v práčke, ak ich zabudneš vo vrecku"
+    ]
+  },
+  {
+    "id": 101,
+    "slovo": "Kondóm",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "ochrana v peňaženke alebo nočnom stolíku",
+      "latex a lubrikant",
+      "bezpečný sex"
+    ]
+  },
+  {
+    "id": 102,
+    "slovo": "Tinder",
+    "kategoria": "flirt",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "swipe doprava alebo doľava",
+      "fotky, vzdialenosť a bio",
+      "zoznamovacia aplikácia na rande"
+    ]
+  },
+  {
+    "id": 103,
+    "slovo": "OnlyFans",
+    "kategoria": "pop-kultura",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "platený mesačný odber obsahu",
+      "pikantné fotky a videá tvorcov",
+      "digitálny intímny biznis"
+    ]
+  },
+  {
+    "id": 104,
+    "slovo": "Stripklub",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "tyč na pódiu a červené svetlá",
+      "tanečnice a súkromné salóniky",
+      "rozlúčka so slobodou"
+    ]
+  },
+  {
+    "id": 105,
+    "slovo": "Cucflek",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "fialový fľak po vášnivom bozkávaní",
+      "skrýva sa pod rolákom alebo šálom",
+      "trápne vysvetľovanie rodičom"
+    ]
+  },
+  {
+    "id": 106,
+    "slovo": "Trojka",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "traja ľudia v jednej posteli",
+      "spoločný intímny zážitok",
+      "častá fantázia na párty"
+    ]
+  },
+  {
+    "id": 107,
+    "slovo": "Vibrátor",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "elektronická erotická pomôcka",
+      "batérie a tichý motorček",
+      "intímne potešenie"
+    ]
+  },
+  {
+    "id": 108,
+    "slovo": "Alkoholová opica",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "bolesť hlavy a sucho v ústach ráno",
+      "výčitky svedomia po divokej noci",
+      "veta: Už nikdy v živote nepijem!"
+    ]
+  },
+  {
+    "id": 109,
+    "slovo": "Poldecák",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "0,05 litra tvrdého alkoholu",
+      "panák kopnutý na ex",
+      "barový pult o druhej ráno"
+    ]
+  },
+  {
+    "id": 110,
+    "slovo": "Ranné okno (blackout)",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "nič si z predošlej noci nepamätáš",
+      "kontrola odoslaných správ s hrôzou",
+      "kamaráti ti musia vyrozprávať, čo si robil"
+    ]
+  },
+  {
+    "id": 111,
+    "slovo": "Nudapláž",
+    "kategoria": "miesta",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "kúpanie a opaľovanie bez plaviek",
+      "rovnomerné opálenie bez bielych miest",
+      "zákaz zízania na druhých"
+    ]
+  },
+  {
+    "id": 112,
+    "slovo": "Putá s kožušinkou",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "zamknutie rúk o posteľ",
+      "erotická hra na dominantného a submisívneho",
+      "kľúčik sa nesmie stratiť"
+    ]
+  },
+  {
+    "id": 113,
+    "slovo": "One-night stand",
+    "kategoria": "flirt",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "známosť na jednu noc",
+      "ranný útek pred raňajkami",
+      "často ani nevieš krstné meno"
+    ]
+  },
+  {
+    "id": 114,
+    "slovo": "Balkónový sex",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "čerstvý nočný vzduch",
+      "adrenalín z toho, či vás niekto vidí",
+      "zábradlie a výhľad na ulicu"
+    ]
+  },
+  {
+    "id": 115,
+    "slovo": "Ex-partner",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "bývalá láska z minulosti",
+      "správa po polnoci po troch pivách",
+      "blokovaný profil na sociálnych sieťach"
+    ]
+  },
+  {
+    "id": 116,
+    "slovo": "Sexting",
+    "kategoria": "flirt",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "písanie pikantných správ cez chat",
+      "posielanie intímnych fotiek",
+      "zahrievanie atmosféry pred stretnutím"
+    ]
+  },
+  {
+    "id": 117,
+    "slovo": "Kocovina z tequily",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "soľ, citrón a bolesť v spánkoch",
+      "divoké tance na stole pred polnocou",
+      "žalúdok na vode"
+    ]
+  },
+  {
+    "id": 118,
+    "slovo": "Bozk na verejnosti",
+    "kategoria": "flirt",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "jazyky v plnom nočnom autobuse",
+      "pohoršené pohľady starších dám",
+      "vášeň bez ohľadu na okolie"
+    ]
+  },
+  {
+    "id": 119,
+    "slovo": "Swingers párty",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "výmena partnerov v klube",
+      "otvorená sexualita bez žiarlivosti",
+      "masky a pravidlá rešpektu"
+    ]
+  },
+  {
+    "id": 120,
+    "slovo": "Kamagru / Viagra",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "modrá tabletka na výdrž",
+      "zvýšenie potencie",
+      "pomocník do spálne"
+    ]
+  },
+  {
+    "id": 121,
+    "slovo": "Nočný klub / Diskotéka",
+    "kategoria": "miesta",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "duniace basy, stroboskopy a dym",
+      "vstupné s páskou na ruku",
+      "odchod o piatej ráno"
+    ]
+  },
+  {
+    "id": 122,
+    "slovo": "Flirt na bare",
+    "kategoria": "flirt",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "očný kontakt a pozvanie na drink",
+      "napísané telefónne číslo na servítke",
+      "úsmevy cez pol podniku"
+    ]
+  },
+  {
+    "id": 123,
+    "slovo": "Sex v aute",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "zahmlené okná na lesnej ceste",
+      "sklopené predné sedadlá",
+      "málo miesta a strach z polície"
+    ]
+  },
+  {
+    "id": 124,
+    "slovo": "Erotická masáž",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "voňavý teplý olej a sviečky",
+      "uvoľnenie celého tela",
+      "dotyky vedúce k vášni"
+    ]
+  },
+  {
+    "id": 125,
+    "slovo": "Roleplay v posteli",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "kostým sestričky, policajta či učiteľa",
+      "hraná scéna pred milovaním",
+      "zmena identity v spálni"
+    ]
+  },
+  {
+    "id": 126,
+    "slovo": "Ranná prechádzka hanby",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "cesta domov včerajším nočným outfitom o 7 ráno",
+      "rozmazaný mejkap v rannom slnku",
+      "tzv. walk of shame"
+    ]
+  },
+  {
+    "id": 127,
+    "slovo": "Správa o tretej ráno",
+    "kategoria": "flirt",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "text: Ešte nespíš?",
+      "odoslané pod vplyvom alkoholu",
+      "túžba po rýchlom stretnutí"
+    ]
+  },
+  {
+    "id": 128,
+    "slovo": "Podväzkový pás",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "zvodná čipkovaná spodná bielizeň",
+      "pančuchy a zapínanie",
+      "prekvapenie pre partnera"
+    ]
+  },
+  {
+    "id": 129,
+    "slovo": "Tanečný parket o polnoci",
+    "kategoria": "pop-kultura",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "najväčšia tlačenica v klube",
+      "rozliate drinky a výkriky s dídžejom",
+      "strata kontroly nad krokmi"
+    ]
+  },
+  {
+    "id": 130,
+    "slovo": "Tajná milenka / milenec",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "stretnutia v hoteloch na okraji mesta",
+      "zmazaná história hovorov",
+      "dvojitý život"
+    ]
+  },
+  {
+    "id": 131,
+    "slovo": "Záchodová kabínka v klube",
+    "kategoria": "miesta",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "rad pred dverami a búchanie",
+      "dvaja ľudia vo vnútri naraz",
+      "rýchle dobrodružstvo v hluku"
+    ]
+  },
+  {
+    "id": 132,
+    "slovo": "Fľaša šampanského",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "strelenie zátky do stropu",
+      "penivý kúpeľ pri oslave víťazstva",
+      "bublinky rýchlo stúpajúce do hlavy"
+    ]
+  },
+  {
+    "id": 133,
+    "slovo": "Adrenalínové flirtovanie",
+    "kategoria": "flirt",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "zvádzanie niekoho, kto je zadaný",
+      "nebezpečná hra s ohňom",
+      "letmé dotyky pod stolom"
+    ]
+  },
+  {
+    "id": 134,
+    "slovo": "Záchranné pivo na opicu",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "klin sa klinom vybíja",
+      "prvý hlt napraví trasúce sa ruky",
+      "liečba v nedeľu napoludnie"
+    ]
+  },
+  {
+    "id": 135,
+    "slovo": "Intímny piercing",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "kovová gulička na skrytom mieste",
+      "bolestivá aplikácia",
+      "prekvapenie pri vyzliekaní"
+    ]
+  },
+  {
+    "id": 136,
+    "slovo": "Kocovinová pizza",
+    "kategoria": "jedlo",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "objednaná z postele o jednej poobede",
+      "veľa syra a slaniny na mastný žalúdok",
+      "jediná záchrana dňa"
+    ]
+  },
+  {
+    "id": 137,
+    "slovo": "Dvojzmyselná narážka",
+    "kategoria": "flirt",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "slovná hračka s erotickým podtónom",
+      "smiech a červenanie sa v tvári",
+      "testovanie reakcie druhej strany"
+    ]
+  },
+  {
+    "id": 138,
+    "slovo": "Vyzliekací poker",
+    "kategoria": "pop-kultura",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "namiesto žetónov idú dole kusy oblečenia",
+      "kto prehrá, ostane v spodnom prádle",
+      "párty hra"
+    ]
+  },
+  {
+    "id": 139,
+    "slovo": "Teplá vírivka",
+    "kategoria": "miesta",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "bublinky a horúca voda",
+      "poháre v ruke a uvoľnená atmosféra",
+      "večer vo wellness centre"
+    ]
+  },
+  {
+    "id": 140,
+    "slovo": "Barmanská šou",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "lietajúce fľaše a poháre vo vzduchu",
+      "zapálený alkohol na pulte",
+      "ohňostroj chutí v koktaile"
+    ]
+  },
+  {
+    "id": 141,
+    "slovo": "Nočné kúpanie nahých",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "skok do jazera o druhej ráno",
+      "oblečenie nechané na brehu",
+      "studená voda a adrenalín"
+    ]
+  },
+  {
+    "id": 142,
+    "slovo": "Tajná erotická hračka",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "ovládaná cez aplikáciu v mobile na diaľku",
+      "diskrétne použitie v reštaurácii",
+      "partner má v rukách ovládač"
+    ]
+  },
+  {
+    "id": 143,
+    "slovo": "Prebudiť sa v cudzom tričku",
+    "kategoria": "flirt",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "veľké bavlnené tričko ráno po noci",
+      "vôňa partnerovej kolínskej",
+      "varenie rannej kávy"
+    ]
+  },
+  {
+    "id": 144,
+    "slovo": "Barmanka s úsmevom",
+    "kategoria": "flirt",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "nalieva drinky a berie tringelty",
+      "dôvod, prečo pri pulte sedíš tak dlho",
+      "očný kontakt pri platení"
+    ]
+  },
+  {
+    "id": 145,
+    "slovo": "Vášnivá hádka a udobrenie",
+    "kategoria": "vztahy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "krik, tresnutie dverami a hneď vášeň",
+      "intenzívne emócie",
+      "najlepší sex po udobrení"
+    ]
+  },
+  {
+    "id": 146,
+    "slovo": "Rozopnutý zips na nohaviciach",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "chodíš s ním pol dňa a nikto ti to nepovie",
+      "zistenie na toalete s hrôzou",
+      "klasický trapas v spoločnosti"
+    ]
+  },
+  {
+    "id": 147,
+    "slovo": "Hra na fľašu",
+    "kategoria": "pop-kultura",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "točenie fľaše v kruhu hráčov",
+      "pravda alebo odvaha",
+      "bozky medzi kamarátmi"
+    ]
+  },
+  {
+    "id": 148,
+    "slovo": "Tatranský čaj 72 %",
+    "kategoria": "alkohol",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "zbojnícky nápoj, ktorý horí v krku",
+      "čierna fľaša s lesným motívom",
+      "stačia dva panáky a končíš"
+    ]
+  },
+  {
+    "id": 149,
+    "slovo": "Cudzí rúž na golieri",
+    "kategoria": "trapasy",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "dôkaz nevery na bielej košeli",
+      "domáce vyšetrovanie po návrate",
+      "nezmývateľná červená stopa"
+    ]
+  },
+  {
+    "id": 150,
+    "slovo": "Párty fotograf",
+    "kategoria": "pop-kultura",
+    "ostrost": "odvazne",
+    "napovedy": [
+      "veľký blesk a objektív namierený na teba",
+      "fotka sa na druhý deň objaví na Facebooku klubu",
+      "panika, ako na nej vyzeráš"
+    ]
+  }
+]
